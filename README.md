@@ -1,1 +1,1 @@
-Asansör entegre edilmiş otomata projesidir. Resimde açıklama yapılmıştır. Kodlar eklenecektir.
+AsansÃ¶r entegre edilmiÅŸ otomata projesidir. Arduino tabanlÄ± olarak geliÅŸtirilmiÅŸtir. DetaylÄ± aÃ§Ä±klama resimde verilmiÅŸtir. Kodlar yakÄ±nda eklenecektir.
