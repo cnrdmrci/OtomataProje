@@ -1,0 +1,1 @@
+Asansör entegre edilmiþ otomata projesidir. Resimde açýklama yapýlmýþtýr. Kodlar eklenecektir.
